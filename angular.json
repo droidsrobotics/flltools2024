@@ -16,6 +16,8 @@
             "outputPath": "www",
             "index": "src/index.html",
             "main": "src/main.ts",
+           "baseHref": "/flltools2024",
+           "deployUrl": "/flltools2024",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
